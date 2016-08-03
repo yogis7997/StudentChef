@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/background_with_shadow.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/background_with_shadow.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/dark_gray.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/dark_gray.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/hand.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/hand.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/red.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/red.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/star.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/star.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/bird.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/bird.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/trash.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/trash.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/white.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/white.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/item_selector.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/item_selector.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/magnifier.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/magnifier.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/divider.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
+    }
+]
