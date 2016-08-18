@@ -156,7 +156,7 @@ public final class R {
 		public static final int abc_list_selector_disabled_holo_light = 0x7f02002b;
 		public static final int abc_list_selector_holo_dark = 0x7f02002c;
 		public static final int abc_list_selector_holo_light = 0x7f02002d;
-		public static final int ic_launcher = 0x7f020050;
+		public static final int ic_launcher = 0x7f02005f;
 	}
 	public static final class id {
 		public static final int action_bar = 0x7f0d0049;

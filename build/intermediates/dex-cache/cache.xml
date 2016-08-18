@@ -1,2 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/Jitensh3255/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/library-2.4.0_221c99f96fa6dfc1673ff9291b909412ce8b1d05.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_b078f1e6081d98b9f2de1c58df83f72f626457f7.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e88a9ed27f98f8c0701d03d5553ce6111ca34a5b">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/com.daimajia.easing-library-1.0.0_47367127a9da8cfd3dff4d9ad1b5a4ee5f910040.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85ccb558dc8258ecf4f0a19e97a3114ec2c64cb4">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/com.daimajia.androidanimations-library-1.1.2_5c9807c83473fea7ef49ca8af25cb3bcb80a9773.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/picasso-2.5.2_961197fd38fee9234cfcc5899aa5ba02b9922b89.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_3d56e493e8096e18e8c34a4df927476eea8ef923.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0650e4e44346616a2e5283f8091380bcde52556">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/jp.wasabeef-recyclerview-animators-1.0.3_7e2c417484bcb0acd87321d29fcd9c29df4230d0.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/StudentChef/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5ad16aab0945ea6121b5e4fd90a611d4f71ea2e8">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/StudentChef-library-unspecified_eb64fe43a07aa3aba94fe58b6a6394b65e6cb172.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/libs/httpmime-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7c772bace9aa31a728c39a88c6ff66a7cd177e89">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/httpmime-4.2.1_49c532c9598f6aea2771386e8e9a316b45e1f097.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_0ca72e92dad6d3e81e38b3329d8f76352256df64.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/volley_3b3f577aab3c548383981b82c9986a12457c1025.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/libs/libphonenumber-3.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9f57b3d0a40ba001d3811bb764354221111a2952">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/libphonenumber-3.8_df5615aedfa1de6c26db32f767118ac237d6ffd7.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_aa6dcabd040b6351df3f38ac9b4522ea6591a998.jar" />
+    </item>
+    <item
+        jar="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_b3c753be8d09b74840fe5e5ae85c75ceeb1b5324.jar" />
+    </item>
+
+</items>

@@ -88,7 +88,7 @@ MERGED from [com.daimajia.easing:library:1.0.0] /Users/Jitensh3255/Documents/Yog
 	android:allowBackup
 		ADDED from /Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from /Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/AndroidManifest.xml:25:9-44
+		ADDED from /Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/AndroidManifest.xml:25:9-64
 		REJECTED from [com.daimajia.easing:library:1.0.0] /Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.0/AndroidManifest.xml:13:9-45
 	android:theme
 		ADDED from /Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/AndroidManifest.xml:28:9-40

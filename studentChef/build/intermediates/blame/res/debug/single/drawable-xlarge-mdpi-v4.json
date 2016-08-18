@@ -28,12 +28,12 @@
         "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/ic_resume.png"
     },
     {
-        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/ic_pasta.png",
-        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/ic_pasta.png"
-    },
-    {
         "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/btn_submit.png",
         "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/btn_submit.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/ic_pasta.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/ic_pasta.png"
     },
     {
         "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/red_cam.png",
@@ -100,11 +100,11 @@
         "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/red_camgrey_.png"
     },
     {
-        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/grey_normal.png",
-        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/grey_normal.png"
-    },
-    {
         "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/ic_pork.png",
         "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/ic_pork.png"
+    },
+    {
+        "merged": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/merged/debug/drawable-xlarge-mdpi-v4/grey_normal.png",
+        "source": "/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/src/main/res/drawable-xlarge-mdpi/grey_normal.png"
     }
 ]

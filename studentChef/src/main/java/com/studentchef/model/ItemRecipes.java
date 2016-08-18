@@ -3,10 +3,34 @@ package com.studentchef.model;
 import java.io.Serializable;
 
 public class ItemRecipes implements Serializable {
-	String id, name, quantity, ingredients, method;
+	String id, name, quantity, ingredients, method,time,avg_cost,dificulty_type;
 
 	public String getId() {
 		return id;
+	}
+
+	public String getTime() {
+		return time;
+	}
+
+	public void setTime(String time) {
+		this.time = time;
+	}
+
+	public String getAvg_cost() {
+		return avg_cost;
+	}
+
+	public void setAvg_cost(String avg_cost) {
+		this.avg_cost = avg_cost;
+	}
+
+	public String getDificulty_type() {
+		return dificulty_type;
+	}
+
+	public void setDificulty_type(String dificulty_type) {
+		this.dificulty_type = dificulty_type;
 	}
 
 	public void setId(String id) {

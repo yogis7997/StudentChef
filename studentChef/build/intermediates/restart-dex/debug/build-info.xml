@@ -4,72 +4,43 @@
     api-level="22"
     density="xxhdpi"
     format="7"
-    timestamp="4572481987037"
-    verifier="CLASS_ADDED" >
+    timestamp="2305176274680"
+    verifier="METHOD_DELETED" >
 
     <task
         name="javac"
-        duration="1364" />
+        duration="843" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="338" />
+        duration="36" />
     <task
         name="verifier"
-        duration="44" />
+        duration="3" />
 
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-        type="DEX" />
     <artifact
         location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
         type="DEX" />
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
 
-    <build timestamp="4158060690806" >
+    <build timestamp="602575090025" >
         <artifact
             location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/outputs/apk/studentChef-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="4572481987037"
+        timestamp="1879769795455"
         verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
         <artifact
             location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="2305176274680"
+        verifier="METHOD_DELETED" >
         <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            location="/Users/Jitensh3255/Documents/YogiAndroidWork/StudentChef/studentChef/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
     </build>
 

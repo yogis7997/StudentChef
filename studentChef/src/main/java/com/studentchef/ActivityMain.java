@@ -133,7 +133,7 @@ public class ActivityMain extends AppCompatActivity implements
 			ChangeFragment(new FragmentTernNCond());
 			img_refresh.setVisibility(View.GONE);
 		} else {
-			img_refresh.setVisibility(View.VISIBLE);
+			img_refresh.setVisibility(View.GONE);
 
 			ChangeFragment(new FragmentRecipe());
 		}

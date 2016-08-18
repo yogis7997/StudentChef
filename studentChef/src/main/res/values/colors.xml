@@ -18,4 +18,5 @@
     <color name="red_press">#990000</color>
     <color name="dark_gray">#4C535B</color>
     <color name="dark_gray_press">#ff7e8a97</color>
+    <color name="parrot_color">#99cc33</color>
 </resources>

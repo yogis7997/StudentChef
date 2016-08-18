@@ -21,7 +21,7 @@
     <application
         android:name="com.studentchef.app.AppController"
         android:allowBackup="true"
-        android:icon="@drawable/ic_luncher"
+        android:icon="@drawable/app_stores_and_phone_thumbnail"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
